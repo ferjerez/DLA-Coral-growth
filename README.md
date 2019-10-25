@@ -11,7 +11,7 @@ Implementation in Processing of a DLA technique for coralish structures
  
  Feel free to use, as you wish. Commercial use allowed
  
- Tested in Processing 3. Libraries required: PeasyCam and ToxicLibs
+ Made with Processing 3. Libraries required: PeasyCam and ToxicLibs
  
  How to use:
  
