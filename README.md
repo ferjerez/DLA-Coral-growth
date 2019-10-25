@@ -2,10 +2,12 @@
 Implementation in Processing of a DLA technique for coralish structures
 
 'Coral' generator using DLA technique.
+
  Fernando Jerez 2019 Twitter/Instagram: @ferjerez3D
+ 
  Models ready to print: https://www.myminifactory.com/object/3d-print-103355
  
- License: Creative Commons.
+  License: Creative Commons.
  
  Feel free to use, as you wish. Commercial use allowed
  
